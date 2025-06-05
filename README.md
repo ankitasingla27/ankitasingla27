@@ -1,16 +1,34 @@
- Hello, I'm Ankita!
+# 👋 Hey there, I'm Ankita!
 
 🎓 Mechatronics student at Thapar Institute of Engineering & Technology  
-🤖 Passionate about Robotics, AI, and Embedded Systems  
-🚀 Currently exploring real-world projects using ML, Deep Learning & ROS  
-📌 Building: Adaptive Autonomous Maintenance Robot (AAMR)
+🤖 Passionate about Robotics, Artificial Intelligence, and Embedded Systems  
+🔬 Currently learning Machine Learning, Deep Learning, ROS, and SLAM  
+💡 Building real-world intelligent systems and working toward my startup project: **AAMR (Adaptive Autonomous Maintenance Robot)**
 
-## 🚀 Projects
-- [ML Projects](#)
-- [Robotics Projects](#)
-- [Embedded Systems](#)
-- [AAMR Prototype](#)
+---
+
+## 🌱 Currently Learning
+- Neural Networks, Deep Learning, and Python Programming
+- NLP, Prompt Engineering, Vector Databases
+- Reinforcement Learning, Generative Models (GANs)
+- Robot Operating System (ROS), SLAM, and Motion Planning
+- Building real-world ML & Robotics projects from scratch
+
+---
+
+## 🛠️ Tech Stack
+`Python` `TensorFlow` `PyTorch` `OpenCV` `ROS` `Arduino` `Raspberry Pi`  
+`Scikit-learn` `Pandas` `Matplotlib` `YOLO` `RTAB-Map` `Git & GitHub`
+
+---
 
 ## 📫 Let's Connect!
-- [LinkedIn](www.linkedin.com/in/ankita-singla-00a51430b)
-- [Email](asingla27006@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ankita-singla27)
+- 📬 [Email](mailto:asingla27006@gmail.com)
+- 🧠 [GitHub Projects](https://github.com/ankitasingla27?tab=repositories)
+
+---
+
+### ✨ Fun Fact
+I believe in **learning by building** — and I’m on a mission to solve real-world problems with technology, one project at a time 🚀
+
