@@ -1,16 +1,16 @@
-## Hi there 👋
+ Hello, I'm Ankita!
 
-<!--
-**ankitasingla27/ankitasingla27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Mechatronics student at Thapar Institute of Engineering & Technology  
+🤖 Passionate about Robotics, AI, and Embedded Systems  
+🚀 Currently exploring real-world projects using ML, Deep Learning & ROS  
+📌 Building: Adaptive Autonomous Maintenance Robot (AAMR)
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- [ML Projects](#)
+- [Robotics Projects](#)
+- [Embedded Systems](#)
+- [AAMR Prototype](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect!
+- [LinkedIn](www.linkedin.com/in/ankita-singla-00a51430b)
+- [Email](asingla27006@gmail.com)
